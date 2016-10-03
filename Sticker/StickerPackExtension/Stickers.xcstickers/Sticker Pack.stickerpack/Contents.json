@@ -1,0 +1,50 @@
+{
+  "stickers" : [
+    {
+      "filename" : "topping01_sticker.sticker"
+    },
+    {
+      "filename" : "topping02_sticker.sticker"
+    },
+    {
+      "filename" : "topping03_sticker.sticker"
+    },
+    {
+      "filename" : "topping04_sticker.sticker"
+    },
+    {
+      "filename" : "topping05_sticker.sticker"
+    },
+    {
+      "filename" : "topping06_sticker.sticker"
+    },
+    {
+      "filename" : "topping07_sticker.sticker"
+    },
+    {
+      "filename" : "topping08_sticker.sticker"
+    },
+    {
+      "filename" : "topping09_sticker.sticker"
+    },
+    {
+      "filename" : "topping10_sticker.sticker"
+    },
+    {
+      "filename" : "topping11_sticker.sticker"
+    },
+    {
+      "filename" : "topping12_sticker.sticker"
+    },
+    {
+      "filename" : "Sticker Sequence.stickersequence"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
